@@ -25,4 +25,4 @@ HW3 Questions:
 9) Write a program to find the GCD of two numbers in C++. [greatest common divisor - HCF]
 10) Write a function to find the length of a string in C++. [len_str]
 
-10c2 = 10*9/(1*2) = 45 combinations. 
+10c2 = 10x9/(1x2) = 45 combinations. 
